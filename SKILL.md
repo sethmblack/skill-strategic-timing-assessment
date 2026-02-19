@@ -3,8 +3,9 @@ name: strategic-timing-assessment
 description: Determine optimal timing for major actions using Harriet Tubman's "Saturday Night" methodology - analyzing observation cycles, response delays, and cover conditions.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5083
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
 - strategic-timing-assessment
